@@ -1,4 +1,4 @@
-# commander-claws
+# AGENTS — commander-claws
 agent coordination tool
 
 Decentralized AI dev team over AXL.
