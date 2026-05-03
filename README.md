@@ -1,5 +1,5 @@
-# AGENTS — commander-claws
-agent coordination tool
+# AGENT ORCHESTRATOR
+agentic coordination tool
 
 Decentralized AI dev team over AXL.
 Assign tasks from Telegram or web → agents (Claude, local LLMs) execute autonomously across devices.
